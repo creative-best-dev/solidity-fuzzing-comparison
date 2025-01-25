@@ -11,7 +11,7 @@ Ensure you are using recent versions of [Foundry](https://github.com/foundry-rs/
 Configure [solc-select](https://github.com/crytic/solc-select) for Echidna & Medusa:
 
 `solc-select install 0.8.23`\
-`solc-select use 0.8.23` sdf 
+`solc-select use 0.8.23`  
 
 To compile this project:
 
